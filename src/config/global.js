@@ -1,16 +1,21 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    Name: 'Planeación y evaluación de procesos operativos en transporte',
+    Description:
+      'Este componente formativo aborda fundamentos teóricos y prácticos de la planeación y evaluación de procesos operativos en transporte. Explora los conceptos, tipos, normativa y herramientas de monitoreo aplicadas al sector. Permite al aprendiz interpretar indicadores de gestión y aplicar metodologías de seguimiento que favorecen la eficiencia y competitividad organizacional.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
       },
       {
         clases: ['banner-principal-decorativo-2'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
       },
     ],
@@ -31,28 +36,104 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'Transporte',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo: 'Concepto',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Tipos y características',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Normativa y políticas del sector',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: 'Objetivos de la organización',
+            hash: 't_1_4',
           },
         ],
       },
-
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Indicadores de gestión',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Concepto',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Elementos',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Características',
+            hash: 't_2_3',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'Monitoreo del transporte',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Concepto',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Elementos',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: 'Características',
+            hash: 't_3_3',
+          },
+          {
+            numero: '3.4',
+            titulo: 'Pasos',
+            hash: 't_3_4',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Herramientas de monitoreo',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Concepto',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'Tipos',
+            hash: 't_4_2',
+          },
+          {
+            numero: '4.3',
+            titulo: 'Características',
+            hash: 't_4_3',
+          },
+        ],
       },
     ],
     subMenu: [
