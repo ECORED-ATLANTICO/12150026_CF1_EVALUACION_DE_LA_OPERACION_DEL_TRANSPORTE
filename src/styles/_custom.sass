@@ -75,17 +75,21 @@ figcaption
 .z-2
   position: relative
   z-index: 2
-// .bg-palmera
-//   background-image: url('../assets/curso/temas/tema7/bg-tarjeta.png')
-//   background-position: center
-//   background-size: cover
-//   background-repeat: no-repeat
-//   height: calc( 100% -  16px)
-//   &--black
-//     background-image: url('../assets/curso/temas/tema6/bg-tabs.png')
+
+.bg-palmera
+  background-image: url('../assets/curso/temas/tema2/bg-card.png')
+  background-position: center
+  background-size: cover
+  background-repeat: no-repeat
+  height: calc( 100% -  16px)
+  // &--black
+  //   background-image: url('../assets/curso/temas/tema6/bg-tabs.png')
 
 .w-85
   max-width: 85px
+  margin: 0 auto
+.w-83
+  max-width: 83px
   margin: 0 auto
 
 .acordion
@@ -95,3 +99,48 @@ figcaption
   .acordion__accion__btn--a
     background-color: #1F3F5F
     color: #ffffff
+
+.tabs-a
+  @media (min-width: 992px) 
+    .row
+      .col-lg-4 
+        flex: 0 0 auto
+        width: 40%
+      .col-lg-8 
+        flex: 0 0 auto
+        width: 60%
+  @media (min-width: 1200px) 
+    .row
+      .col-xl-3 
+        flex: 0 0 auto
+        width: 38%
+      .col-xl-9
+        flex: 0 0 auto
+        width: 62%
+  &__tab
+    background-color: #E0E5E9
+
+.tabs-a__content-item
+  height: -webkit-fill-available
+
+.barra-avance__boton--regresar span
+  color: $white !important
+
+.bg-slider
+  background-image: url('../assets/curso/temas/tema3/bg-slider.png')
+  background-position: center
+  background-size: cover
+  background-repeat: no-repeat
+
+.slyder-a
+  .slyder-a__btn--atrs, .slyder-a__btn--sigt
+    background-color: $color-acento-botones
+    background-image: url(../assets/bullets/arrow-white.svg) !important
+
+  .slyder-a__bullets__item
+    margin: 0 8px
+    background-color: #1F3F5F
+    border-color: #1F3F5F
+    opacity: 0.4
+    &.slyder-a__bullets__item--active
+      opacity: 1
