@@ -59,8 +59,22 @@ figcaption
 
   @media screen and ( mim-width: $bp-min-lg )
     background-position: start center
-    
 
+.bg-color-secundario-s5
+  background-color: $color-secundario-s5
+    
+.banner-text
+  border-radius: 12px
+  padding: 30px
+  margin-top: -40px
+
+@media (min-width: 992px)
+  .banner-text
+    margin-top: -60px
+
+.z-2
+  position: relative
+  z-index: 2
 // .bg-palmera
 //   background-image: url('../assets/curso/temas/tema7/bg-tarjeta.png')
 //   background-position: center
@@ -73,3 +87,11 @@ figcaption
 .w-85
   max-width: 85px
   margin: 0 auto
+
+.acordion
+  &__activo
+    background-color: $color-primario-p5
+
+  .acordion__accion__btn--a
+    background-color: #1F3F5F
+    color: #ffffff

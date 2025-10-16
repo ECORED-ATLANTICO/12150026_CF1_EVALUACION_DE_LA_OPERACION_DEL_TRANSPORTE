@@ -5,7 +5,18 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Tema 3
+      h1 Monitoreo del transporte
+
+    img.z-2(data-aos="fade-up")(src="@/assets/curso/temas/tema3/1.png", alt="Imagen decorativa")
+
+    .row.justify-content-center.z-2.mb-5
+      .col-lg-10(data-aos="fade-down")
+        div.banner-text.bg-color-secundario-s5
+          p.mb-0 Es el pilar fundamental en la gestión logística moderna, que facilita la anticipación, optimiza recursos y asegura un servicio de calidad.
+
+
+
+
 
 </template>
 
