@@ -77,7 +77,7 @@
     #t_1_3(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
       h3 1.3 Normativa y políticas del sector 
        
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center.z-2
       .col-lg-7
         p El transporte es una actividad regulada para garantizar seguridad, eficiencia, sostenibilidad y equidad. La normatividad incluye leyes, decretos, resoluciones y reglamentos que definen cómo deben desarrollarse las operaciones. Las políticas corresponden a las estrategias que orientan el desarrollo de la industria, facilitando el cumplimiento de estándares y la adaptación a los cambios del entorno.
         p.mb-4 Estas regulaciones y lineamientos buscan:
@@ -85,7 +85,8 @@
         figure
           img(src="@/assets/curso/temas/tema1/9.png", alt="Imagen decorativa" data-aos="fade-down-right")
 
-    .row.justify-content-center.align-items-stretch.mb-4
+    .fullwidth-bg.fullwidth-bg--1
+    .row.justify-content-center.align-items-stretch.mb-4.z-2
       .col-sm-6.col-xl-3.mb-4
         .p-3.bg-color-acento-contenido-ac10.rounded-3.h-100.mb-lg-0
           .row.align-items-center.justify-content-center
