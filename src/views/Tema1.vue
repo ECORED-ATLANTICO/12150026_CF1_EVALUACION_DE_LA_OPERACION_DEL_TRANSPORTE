@@ -85,53 +85,53 @@
         figure
           img(src="@/assets/curso/temas/tema1/9.png", alt="Imagen decorativa" data-aos="fade-down-right")
 
-    .row.justify-content-center.align-items-stretch
-      .col-sm-6.col-lg-3.mb-4
+    .row.justify-content-center.align-items-stretch.mb-4
+      .col-sm-6.col-xl-3.mb-4
         .p-3.bg-color-acento-contenido-ac10.rounded-3.h-100.mb-lg-0
           .row.align-items-center.justify-content-center
-            .col-4.col-lg-3
+            .col-3
               figure
-                img.mb-4.mb-lg-0(src="@/assets/curso/temas/tema1/10.svg", alt="Imagen decorativa")
-            .col-lg-9
+                img(src="@/assets/curso/temas/tema1/10.svg", alt="Imagen decorativa")
+            .col-9
               ul.lista-ul--color.mb-0
                 li.mb-0 
                   i.fa-solid.fa-circle-check
                   | Asegurar la protección de vidas y bienes.
-      .col-sm-6.col-lg-3.mb-4
+      .col-sm-6.col-xl-3.mb-4
         .p-3.bg-color-acento-contenido-ac10.rounded-3.h-100.mb-lg-0
           .row.align-items-center.justify-content-center
-            .col-4.col-lg-3
+            .col-3
               figure
-                img.mb-4.mb-lg-0(src="@/assets/curso/temas/tema1/11.svg", alt="Imagen decorativa")
-            .col-lg-9
+                img(src="@/assets/curso/temas/tema1/11.svg", alt="Imagen decorativa")
+            .col-9
               ul.lista-ul--color.mb-0
                 li.mb-0 
                   i.fa-solid.fa-circle-check
                   | Optimizar la eficiencia operativa.
-      .col-sm-6.col-lg-3.mb-4
+      .col-sm-6.col-xl-3.mb-4
         .p-3.bg-color-acento-contenido-ac10.rounded-3.h-100.mb-lg-0
           .row.align-items-center.justify-content-center
-            .col-4.col-lg-3
+            .col-3
               figure
-                img.mb-4.mb-lg-0(src="@/assets/curso/temas/tema1/12.svg", alt="Imagen decorativa")
-            .col-lg-9
+                img(src="@/assets/curso/temas/tema1/12.svg", alt="Imagen decorativa")
+            .col-9
               ul.lista-ul--color.mb-0
                 li.mb-0 
                   i.fa-solid.fa-circle-check
                   | Anticipar riesgos regulatorios.
-      .col-sm-6.col-lg-3.mb-4
+      .col-sm-6.col-xl-3.mb-4
         .p-3.bg-color-acento-contenido-ac10.rounded-3.px-2.h-100.mb-lg-0
           .row.align-items-center.justify-content-center
-            .col-4.col-lg-3
+            .col-3
               figure
-                img.mb-4.mb-lg-0(src="@/assets/curso/temas/tema1/13.svg", alt="Imagen decorativa")
-            .col-lg-9
+                img(src="@/assets/curso/temas/tema1/13.svg", alt="Imagen decorativa")
+            .col-9
               ul.lista-ul--color.mb-0
                 li.mb-0 
                   i.fa-solid.fa-circle-check
                   | Promover sostenibilidad y competitividad.
 
-    .row.align-items-center.justify-content-center
+    .row.align-items-center.justify-content-center.z-2
       .col-8.col-sm-6.col-xl-4
         figure
           img.mb-4.mb-xl-0(src='@/assets/curso/temas/tema1/6.png', alt='Imagen ilustrativa' data-aos='fade-down')
@@ -140,38 +140,26 @@
           .tarjeta.bg-palmera.bg-color-secundario-s5.p-4.pt-5(titulo="Leyes marco")
             h4.mb-4 Leyes marco
             p.mb-5 En Colombia, la Ley 105 de 1993 y la Ley 336 de 1996 establecen los principios generales del servicio público de transporte, definiendo su naturaleza y fundamentos reguladores.
-            figure
-              img(src="@/assets/curso/temas/tema1/15.png")
 
-          .tarjeta.bg-palmera.bg-color-secundario-s5.p-4.pt-5(titulo="Unidad de medida")
+          .tarjeta.bg-palmera.bg-color-secundario-s5.p-4.pt-5(titulo="Decretos reglamentarios")
             h4.mb-4 Decretos reglamentarios
             p.mb-5 El Decreto 1079 de 2015 consolida la normatividad del sector y regula aspectos del transporte terrestre automotor de pasajeros, carga y servicios especiales.
-            figure
-              img(src="@/assets/curso/temas/tema1/16.png")
 
-          .tarjeta.bg-palmera.bg-color-secundario-s5.p-4.pt-5(titulo="Frecuencia de medición")
+          .tarjeta.bg-palmera.bg-color-secundario-s5.p-4.pt-5(titulo="Resoluciones y circulares")
             h4.mb-4 Resoluciones y circulares
             p.mb-5 Emitidas por el Ministerio de Transporte y la Superintendencia de Transporte, especifican procedimientos técnicos y operativos, requisitos para vehículos, licencias, tarifas y servicios.
-            figure
-              img(src="@/assets/curso/temas/tema1/17.png")
 
-          .tarjeta.bg-palmera.bg-color-secundario-s5.p-4.pt-5(titulo="Frecuencia de medición")
+          .tarjeta.bg-palmera.bg-color-secundario-s5.p-4.pt-5(titulo="Normativa de seguridad vial")
             h4.mb-4 Normativa de seguridad vial
             p.mb-5 Incluye regulaciones sobre límites de velocidad, uso de cinturón de seguridad, licencias de conducción, mantenimiento de vehículos y el Plan Estratégico de Seguridad Vial (PESV), obligatorio para empresas según la Ley 2251 de 2022 y sus decretos reglamentarios.
-            figure
-              img(src="@/assets/curso/temas/tema1/18.png")
 
-          .tarjeta.bg-palmera.bg-color-secundario-s5.p-4.pt-5(titulo="Frecuencia de medición")
+          .tarjeta.bg-palmera.bg-color-secundario-s5.p-4.pt-5(titulo="Normativa ambiental")
             h4.mb-4 Normativa ambiental
             p.mb-5 Establece regulaciones sobre emisiones contaminantes, gestión de residuos peligrosos y uso de combustibles limpios, promoviendo el transporte sostenible.
-            figure
-              img(src="@/assets/curso/temas/tema1/19.png")
 
-          .tarjeta.bg-palmera.bg-color-secundario-s5.p-4.pt-5(titulo="Frecuencia de medición")
+          .tarjeta.bg-palmera.bg-color-secundario-s5.p-4.pt-5(titulo="Convenios internacionales")
             h4.mb-4 Convenios internacionales
             p.mb-5 Incorporan lineamientos de organismos como la ONU e IATA para el transporte de mercancías peligrosas, adoptando prácticas armonizadas a nivel global.
-            figure
-              img(src="@/assets/curso/temas/tema1/20.png")
 
     Separador
     #t_1_4(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
@@ -179,8 +167,60 @@
 
     p.mb-4 Los objetivos de la organización del transporte son los resultados deseados que una empresa o entidad busca lograr a través de sus operaciones logísticas y de movilidad. Estos objetivos son fundamentales para guiar las decisiones estratégicas y operativas, garantizando eficiencia y sostenibilidad.  No se limitan solo a mover bienes o personas, sino que abarcan una visión más amplia de valor y desempeño:
 
+    .fullwidth-bg.fullwidth-bg--1
+      .row.justify-content-center.align-items-center.factores-slider.z-2
+        .d-none.d-xl-block.col-xl-4
+          figure
+            img(src='@/assets/curso/temas/tema1/14.png', alt='Imagen de un mecánico')(data-aos="fade-up")
+        .col-xl-8.mb-3.mb-lg-0
+          SlyderF(columnas="col-lg-6")
+            .tarjeta.tarjeta--blanca.px-4.pt-5.factores-slider__tarjeta
+              .row.justify-content-center.mb-3
+                .col-5
+                  img.factores-slider__icon(src='@/assets/curso/temas/tema1/15.png' alt='Ilustacion de acompañamiento')
+              .factores-slider__title-wrapper  
+                h4.factores-slider__title.mb-4 Optimización de la eficiencia operativa
+              p.mb-4.mb-5.text-center Reducir costos, maximizar la utilización de recursos, optimizar rutas y tiempos, mejorar la productividad.
 
+            .tarjeta.tarjeta--blanca.px-4.pt-5.factores-slider__tarjeta
+              .row.justify-content-center.mb-3
+                .col-5
+                  img.factores-slider__icon(src='@/assets/curso/temas/tema1/16.png' alt='Ilustacion de acompañamiento')
+              .factores-slider__title-wrapper  
+                h4.factores-slider__title.mb-4 Garantía de la seguridad
+              p.mb-4.text-center Reducir la siniestralidad, proteger al personal, salvaguardar la carga, asegurar la seguridad vial.
 
+            .tarjeta.tarjeta--blanca.px-4.pt-5.factores-slider__tarjeta
+              .row.justify-content-center.mb-3
+                .col-5
+                  img.factores-slider__icon(src='@/assets/curso/temas/tema1/17.png' alt='Ilustacion de acompañamiento')
+              .factores-slider__title-wrapper  
+                h4.factores-slider__title.mb-4 Aseguramiento de la calidad del servicio y satisfacción del cliente
+              p.mb-4.text-center Cumplir con los tiempos de entrega o llegada, mantener la integridad de la carga, ofrecer visibilidad y trazabilidad, responder rápidamente a incidentes.
+
+            .tarjeta.tarjeta--blanca.px-4.pt-5.factores-slider__tarjeta
+              .row.justify-content-center.mb-3
+                .col-5
+                  img.factores-slider__icon(src='@/assets/curso/temas/tema1/18.png' alt='Ilustacion de acompañamiento')
+              .factores-slider__title-wrapper  
+                h4.factores-slider__title.mb-4 Cumplimiento normativo y legal
+              p.mb-4.text-center Adherirse a regulaciones, gestionar permisos y licencias.
+
+            .tarjeta.tarjeta--blanca.px-4.pt-5.factores-slider__tarjeta
+              .row.justify-content-center.mb-3
+                .col-5
+                  img.factores-slider__icon(src='@/assets/curso/temas/tema1/19.png' alt='Ilustacion de acompañamiento')
+              .factores-slider__title-wrapper  
+                h4.factores-slider__title.mb-4 Sostenibilidad y responsabilidad social
+              p.mb-4.text-center Reducir el impacto ambiental, fomentar prácticas de transporte sostenible, contribuir al desarrollo económico y social.
+
+            .tarjeta.tarjeta--blanca.px-4.pt-5.factores-slider__tarjeta
+              .row.justify-content-center.mb-3
+                .col-5
+                  img.factores-slider__icon(src='@/assets/curso/temas/tema1/20.png' alt='Ilustacion de acompañamiento')
+              .factores-slider__title-wrapper  
+                h4.factores-slider__title.mb-4 Adaptabilidad e innovación
+              p.mb-4.text-center Integrar nuevas tecnologías, ser flexible ante cambios del mercado, promover la mejora continua.
 </template>
 
 <script>
