@@ -183,22 +183,131 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: 'Sitio web',
-      link: '',
+      tema: 'Transporte',
+      referencia:
+        'Canal de Educación Logística. (2025, 10 de junio). <em>Planificación de operaciones logísticas y de transporte. Impacto en la eficiencia y sostenibilidad</em> [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=ncFMHbtOZhU',
+    },
+    {
+      tema: 'Indicadores de gestión',
+      referencia:
+        'Elitelogis. (2024, 1 de agosto). <em>Herramientas y Métricas de Medición Logística</em> [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=_2FL76RGoOE',
+    },
+    {
+      tema: 'Transporte',
+      referencia:
+        'Cedeño-Millares, R. D., et al. (2020). <em>La gestión del proceso de transporte de carga para las empresas transportistas.</em> Ciencias Holguín, 26(1).',
+      tipo: 'PDF',
+      link:
+        'https://www.redalyc.org/journal/1815/181562407004/181562407004.pdf',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Análisis predictivo',
+      significado:
+        'Técnica aplicada en logística para anticipar retrasos, riesgos o incidencias en el transporte mediante el uso de datos históricos y modelos estadísticos.',
+    },
+    {
+      termino: 'ERP <em>(Enterprise Resource Planning)</em>',
+      significado:
+        'Sistema de planificación de recursos empresariales que integra procesos clave como finanzas, inventarios, compras y logística, permitiendo una gestión unificada.',
+    },
+    {
+      termino: 'GPS (<em>Global Positioning System</em>)',
+      significado:
+        'Sistema de posicionamiento global que permite rastrear en tiempo real la ubicación de vehículos y mercancías en tránsito.',
+    },
+    {
+      termino: 'Indicadores de gestión (KPIs)',
+      significado:
+        'Métricas cuantitativas que evalúan el desempeño de los procesos logísticos y de transporte, facilitando la toma de decisiones y la mejora continua.',
+    },
+    {
+      termino: 'IoT (<em>Internet of Things</em>)',
+      significado:
+        'Red de dispositivos conectados que recopilan y transmiten datos, como sensores de temperatura, humedad o velocidad, utilizados en el monitoreo logístico.',
+    },
+    {
+      termino: 'Monitoreo del transporte',
+      significado:
+        'Proceso de seguimiento constante de vehículos, rutas y carga para asegurar trazabilidad, visibilidad y cumplimiento de los tiempos de entrega.',
+    },
+    {
+      termino: 'Multimodal',
+      significado:
+        'Modalidad de transporte que integra dos o más medios bajo la gestión de un solo operador y un único contrato, optimizando eficiencia y costos.',
+    },
+    {
+      termino: 'Normativa de seguridad vial',
+      significado:
+        'Conjunto de regulaciones que garantizan la seguridad de conductores, pasajeros y carga, incluyendo límites de velocidad, licencias y planes estratégicos.',
+    },
+    {
+      termino: 'Sostenibilidad en transporte',
+      significado:
+        'Estrategia que busca reducir el impacto ambiental de las operaciones logísticas mediante prácticas como la eficiencia energética y el uso de combustibles limpios.',
+    },
+    {
+      termino: 'TMS (<em>Transportation Management System</em>)',
+      significado:
+        '<em>Software</em> especializado en planificar, optimizar y monitorear las operaciones de transporte, controlando rutas, costos y entregas.',
+    },
+    {
+      termino: 'Transporte terrestre',
+      significado:
+        'Medio que moviliza personas y mercancías por carreteras o vías férreas, caracterizado por su flexibilidad y cobertura nacional.',
+    },
+    {
+      termino: 'WMS (<em>Warehouse Management System</em>)',
+      significado:
+        '<em>Software</em> de gestión de almacenes que controla operaciones como recepción, inventario, preparación de pedidos y despacho, mejorando la eficiencia operativa.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Mora García, L. A. (2023). <em>Logística del transporte y distribución de carga </em>(2.ª ed.). Ecoe Ediciones.',
+      link:
+        'https://www.ecoeediciones.com/product/logistica-del-transporte-y-distribucion-de-carga-2da-edicion-impreso/',
+    },
+    {
+      referencia:
+        'Mora, L. A., & Muñoz, R. D. (2009). <em>Diccionario de logística y negocios internacionales.</em> Ecoe Ediciones.',
+      link:
+        'https://www.buscalibre.com.co/libro-diccionario-de-logistica-y-negocios-internacionales/9789586156557/p/47020569',
+    },
+    {
+      referencia:
+        'Pérez Bello, O. A. (2016). <em>Optimización de procesos para la planeación y ejecución del mantenimiento en equipos especializados para el transporte y el izaje de cargas a nivel nacional</em> [Trabajo de grado, Universidad Militar Nueva Granada]. Repositorio Institucional UMNG.',
+      link:
+        'https://repository.umng.edu.co/bitstreams/15e35c7a-8b21-4182-aca8-1a2abc11cff8/download',
+    },
+    {
+      referencia:
+        'Silvera Escudero, R. E. (2019). <em>Logística matemática: La clave del éxito en la cadena de suministro.</em> Ecoe Ediciones Ltda.',
+      link:
+        'https://www.buscalibre.com.co/libro-logistica-matematica-la-,-del-exito-en-la-cadena-de-suministro-1ra-edicion/9789587719602/p/49964175',
+    },
+    {
+      referencia:
+        'Colombia. Congreso de la República. (1996). <em>Ley 336 de 1996: Por la cual se adopta el Estatuto Nacional de Transporte.</em>',
+      link:
+        'https://www.supertransporte.gov.co/documentos/2020/Diciembre/Notificaciones_16_RA/Resoluciones/860.pdf',
+    },
+    {
+      referencia:
+        'Colombia. Ministerio de Transporte. (2001). <em>Decreto 173 de 2001: Por el cual se reglamenta el Servicio Público de Transporte Terrestre Automotor de Carga.</em>',
+      link: 'https://mintransporte.gov.co/descargar.php?idFile=130',
+    },
+    {
+      referencia:
+        'Colombia. Ministerio de Transporte. (2002). <em>Decreto 1609 de 2002: Por el cual se reglamenta el manejo y transporte terrestre automotor de mercancías peligrosas por carretera.</em>',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6101',
     },
   ],
   creditos: [
@@ -206,14 +315,15 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable del ecosistema',
+          nombre: 'Milady Tatiana Villamil Castellanos',
+          cargo:
+            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
+          nombre: 'Miguel de Jesús Paredes Maestre',
           cargo: 'Responsable de línea de producción',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -221,9 +331,14 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Yezid Arturo Choperena Guerrero',
+          cargo: 'Experto temático',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Jair Coll Gallardo',
+          cargo: 'Evaluador instruccional',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -231,19 +346,19 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Antonio Vecino Valero',
+          cargo: 'Diseñador <i>web</i>',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Fabio Fonseca Arguelles',
+          cargo: 'Desarrollador <i>full stack junior</i>',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Alexander Rafael Acosta Bedoya',
           cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -251,14 +366,24 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'María Fernanda Morales Angulo',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Luz Karime Amaya Cabra',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Jonathan Adié Villafañe',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Jairo Luis Valencia Ebratt',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
