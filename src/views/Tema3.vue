@@ -170,20 +170,12 @@
 
           .row.align-items-center.justify-content-center
             .col-sm-10.col-lg-7.col-xl-6
-              h5.mb-4 Transporte aéreo.
-              p.mb-4.mb-lg-0 Permite el traslado ágil de personas y mercancías en aeronaves. Es apropiado para productos de alto valor, electrónicos, farmacéuticos, perecederos y atenciones médicas urgentes. Se caracteriza por la reducción significativa de los tiempos de entrega, la mínima manipulación de la carga y la alta trazabilidad.
-            .col-sm-8.col-lg-5.col-xl-4
-              figure
-                img(src='@/assets/curso/temas/tema3/17.png', alt='Imagen ilustrativa')
-
-          .row.align-items-center.justify-content-center
-            .col-sm-10.col-lg-7.col-xl-6
               h5.mb-4 Integración y comunicación.
               p.mb-3 <strong>Integración con otros sistemas</strong>: conecta con WMS o TMS, ofreciendo una visión completa de la cadena de suministro.
               p <strong>Comunicación fluida</strong>: facilita el contacto inmediato entre central, conductor y cliente; actualizaciones en tiempo real mejoran la experiencia del cliente.
             .col-sm-8.col-lg-5.col-xl-4
               figure
-                img(src='@/assets/curso/temas/tema3/18.png', alt='Imagen ilustrativa')
+                img(src='@/assets/curso/temas/tema3/16.png', alt='Imagen ilustrativa')
 
     Separador
     #t_3_4(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
@@ -191,6 +183,68 @@
 
     .p-4.py-3.rounded-end-5.rounded-bottom-0.bg-color-secundario-s5.mb-4
       p.mb-0 La implementación de un sistema de monitoreo permite optimizar la operación del transporte, mejorar la eficiencia y aumentar la seguridad, mediante un proceso planificado, el uso de tecnología adecuada y la participación del personal.
+
+    .row.justify-content-center.z-2
+      .col-xl-10
+      PasosA.color-acento-contenido.mb-5(tipo="n")
+        .row.align-items-center
+          .col-md-8.mb-4.mb-md-0
+            h4 Definición de objetivos y KPIs
+            p Establecer indicadores medibles que permitan evaluar el desempeño del transporte, como entregas a tiempo, consumo de combustible y tiempos de respuesta a incidentes.
+          .col-md-4
+            figure
+              img(src='@/assets/curso/temas/tema3/17.svg', alt='Imagen decorativa', data-aos="fade-down")
+
+        .row.align-items-center
+          .col-md-4.mb-4.mb-md-0
+            figure
+              img(src='@/assets/curso/temas/tema3/18.svg', alt='Imagen decorativa', data-aos="fade-down")
+          .col-md-8.text-start
+            h4 Selección de la tecnología adecuada
+            p Elegir herramientas de hardware (GPS o sensores) y software (plataformas) que se ajusten a las necesidades y presupuesto, asegurando compatibilidad e integración con sistemas existentes.
+
+        .row.align-items-center
+          .col-md-8.mb-4.mb-md-0
+            h4 Instalación y configuración
+            p Colocar los dispositivos de seguimiento en los vehículos y configurar la plataforma con geocercas, puntos de interés y reglas de alerta.
+          .col-md-4
+            figure
+              img(src='@/assets/curso/temas/tema3/19.svg', alt='Imagen decorativa', data-aos="fade-down")
+
+        .row.align-items-center
+          .col-md-4.mb-4.mb-md-0
+            figure
+              img(src='@/assets/curso/temas/tema3/20.svg', alt='Imagen decorativa', data-aos="fade-down")
+          .col-md-8.text-start
+            h4 Capacitación del personal
+            p Entrenar a operadores, conductores y personal de despacho en el uso del sistema y en protocolos de respuesta, promoviendo la cultura de aprovechamiento de la tecnología.
+
+        .row.align-items-center
+          .col-md-8.mb-4.mb-md-0
+            h4 Establecimiento de protocolos de respuesta
+            p Definir procedimientos claros para responder a alertas o incidentes, y asegurar una comunicación eficiente entre todos los involucrados.
+          .col-md-4
+            figure
+              img(src='@/assets/curso/temas/tema3/21.svg', alt='Imagen decorativa', data-aos="fade-down")
+
+        .row.align-items-center
+          .col-md-4.mb-4.mb-md-0
+            figure
+              img(src='@/assets/curso/temas/tema3/22.svg', alt='Imagen decorativa', data-aos="fade-down")
+          .col-md-8.text-start
+            h4 Monitoreo continuo y análisis de datos
+            p Supervisar las operaciones en tiempo real y analizar los informes generados para identificar tendencias, evaluar desempeño y detectar oportunidades de mejora.
+            
+        .row.align-items-center
+          .col-md-8.mb-4.mb-md-0
+            h4 Iteración y mejora continua
+            p Evaluar periódicamente el sistema, ajustar configuraciones y protocolos, y actualizarse con nuevas tecnologías para optimizar el proceso de manera constante.
+          .col-md-4
+            figure
+              img(src='@/assets/curso/temas/tema3/23.svg', alt='Imagen decorativa', data-aos="fade-down")
+    .fullwidth-bg.fullwidth-bg--2
+
+
 
 </template>
 
