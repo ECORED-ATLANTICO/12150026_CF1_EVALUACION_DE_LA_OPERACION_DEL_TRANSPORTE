@@ -24,7 +24,7 @@
           img(src="@/assets/curso/temas/tema4/2.png", alt="Imagen decorativa")
       .col-lg-9
         .cajon.color-secundario.p-4
-          p.mb-0 Las herramientas de monitoreo son sistemas que integran hardware y software para recopilar, procesar y mostrar información en tiempo real sobre la ubicación, el estado y el desempeño de los activos de transporte. Su función principal es brindar trazabilidad y visibilidad integral, permitiendo a los gestores identificar cuellos de botella, anticipar retrasos y actuar de manera proactiva. Gracias a estas herramientas, es posible optimizar recursos, responder oportunamente a incidentes y ofrecer un servicio más confiable y competitivo.
+          p.mb-0 Las herramientas de monitoreo son sistemas que integran <em>hardware</em> y <em>software</em> para recopilar, procesar y mostrar información en tiempo real sobre la ubicación, el estado y el desempeño de los activos de transporte. Su función principal es brindar trazabilidad y visibilidad integral, permitiendo a los gestores identificar cuellos de botella, anticipar retrasos y actuar de manera proactiva. Gracias a estas herramientas, es posible optimizar recursos, responder oportunamente a incidentes y ofrecer un servicio más confiable y competitivo.
 
     Separador
     #t_4_2(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2

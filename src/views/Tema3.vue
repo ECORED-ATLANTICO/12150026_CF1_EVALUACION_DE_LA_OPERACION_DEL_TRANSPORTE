@@ -134,7 +134,7 @@
 
           .row.align-items-center.justify-content-center
             .col-sm-10.col-lg-7.col-xl-6
-              h5.mb-4 Automatización y notificaciones inteligentes.
+              h5.mb-4 Automatización y notificaciones inteligentes
               p.mb-3 <strong>Geocercas</strong>: crea límites virtuales alrededor de áreas críticas; envía alertas automáticas al entrar o salir de ellas.
               p <strong>Alertas personalizadas</strong>: notificaciones automáticas sobre exceso de velocidad, paradas no planificadas, desvíos o comportamientos de conducción bruscos.
             .col-sm-8.col-lg-5.col-xl-4
@@ -143,7 +143,7 @@
 
           .row.align-items-center.justify-content-center
             .col-sm-10.col-lg-7.col-xl-6
-              h5.mb-4 Optimización de rutas y eficiencia operativa.
+              h5.mb-4 Optimización de rutas y eficiencia operativa
               p.mb-3 <strong>Planificación de rutas</strong>: calcula trayectos más eficientes considerando tráfico, clima y puntos de entrega, reduciendo tiempo y combustible.
               p <strong>Análisis predictivo</strong>: predice retrasos y problemas en ruta, permitiendo tomar decisiones preventivas.
             .col-sm-8.col-lg-5.col-xl-4
@@ -152,7 +152,7 @@
                 
           .row.align-items-center.justify-content-center
             .col-sm-10.col-lg-7.col-xl-6
-              h5.mb-4 Recopilación de datos y generación de reportes.
+              h5.mb-4 Recopilación de datos y generación de reportes
               p.mb-3 <strong>Telemetría</strong>: registra consumo de combustible, RPM, inactividad, aceleraciones y frenadas bruscas, útil para mantenimiento y evaluación de conductores.
               p <strong>Informes detallados</strong>: genera reportes sobre rendimiento de la flota, historial de recorridos y productividad.
             .col-sm-8.col-lg-5.col-xl-4
@@ -161,7 +161,7 @@
 
           .row.align-items-center.justify-content-center
             .col-sm-10.col-lg-7.col-xl-6
-              h5.mb-4 Seguridad y control.
+              h5.mb-4 Seguridad y control
               p.mb-3 <strong>Mayor seguridad</strong>: localización rápida ante robos o emergencias; promueve conducción segura mediante monitoreo del comportamiento del conductor.
               p <strong>Transparencia</strong>: prueba electrónica de entrega (POD) con fotos y firmas, aumentando confianza y veracidad de la entrega.
             .col-sm-8.col-lg-5.col-xl-4
@@ -170,7 +170,7 @@
 
           .row.align-items-center.justify-content-center
             .col-sm-10.col-lg-7.col-xl-6
-              h5.mb-4 Integración y comunicación.
+              h5.mb-4 Integración y comunicación
               p.mb-3 <strong>Integración con otros sistemas</strong>: conecta con WMS o TMS, ofreciendo una visión completa de la cadena de suministro.
               p <strong>Comunicación fluida</strong>: facilita el contacto inmediato entre central, conductor y cliente; actualizaciones en tiempo real mejoran la experiencia del cliente.
             .col-sm-8.col-lg-5.col-xl-4
@@ -201,7 +201,7 @@
               img(src='@/assets/curso/temas/tema3/18.svg', alt='Imagen decorativa', data-aos="fade-down")
           .col-md-8.text-start
             h4 Selección de la tecnología adecuada
-            p Elegir herramientas de hardware (GPS o sensores) y software (plataformas) que se ajusten a las necesidades y presupuesto, asegurando compatibilidad e integración con sistemas existentes.
+            p Elegir herramientas de <em>hardware</em> (GPS o sensores) y <em>software</em> (plataformas) que se ajusten a las necesidades y presupuesto, asegurando compatibilidad e integración con sistemas existentes.
 
         .row.align-items-center
           .col-md-8.mb-4.mb-md-0

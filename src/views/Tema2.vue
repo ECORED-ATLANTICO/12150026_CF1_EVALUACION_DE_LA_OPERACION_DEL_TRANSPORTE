@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/1.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Los indicadores de gestión (o KPIs, por sus siglas en inglés: Key Performance Indicators) son herramientas de medición cuantitativa que permiten evaluar el desempeño y el resultado de los procesos logísticos de una empresa. Su objetivo principal es monitorear el cumplimiento de los objetivos estratégicos y operativos, identificar desviaciones, y tomar decisiones informadas para mejorar la eficiencia y la productividad. En logística, estos indicadores son cruciales para medir el rendimiento en áreas como el transporte, el almacenamiento, el inventario, el servicio al cliente y la productividad general de la cadena de suministro.
+        p.mb-0 Los indicadores de gestión (o KPIs, por sus siglas en inglés: <em>Key Performance Indicators</em>) son herramientas de medición cuantitativa que permiten evaluar el desempeño y los resultados de los procesos logísticos de una empresa. Su objetivo principal es monitorear el cumplimiento de los objetivos estratégicos y operativos, identificar desviaciones, y tomar decisiones informadas para mejorar la eficiencia y la productividad. En logística, estos indicadores son cruciales para medir el rendimiento en áreas como el transporte, el almacenamiento, el inventario, el servicio al cliente y la productividad general de la cadena de suministro.
 
     Separador
     #t_2_1(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2

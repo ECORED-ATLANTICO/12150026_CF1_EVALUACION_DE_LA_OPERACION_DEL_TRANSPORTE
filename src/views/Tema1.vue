@@ -34,7 +34,7 @@
 
     Separador
     #t_1_2(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 1.2 Concepto
+      h3 1.2 Tipos y características
 
     p.mb-4 La elección del tipo de transporte depende de múltiples variables como el tipo de carga, urgencia, destino, infraestructura disponible, costos y sostenibilidad. Esta decisión afecta directamente los indicadores logísticos, como el nivel de servicio, costos operativos, huella de carbono y tiempo de ciclo.
 

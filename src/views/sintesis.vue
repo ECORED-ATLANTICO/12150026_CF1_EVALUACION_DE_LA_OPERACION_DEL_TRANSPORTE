@@ -4,7 +4,7 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7
-        p El componente formativo “Planeación y evaluación de procesos operativos en transporte” permite comprender la gestión logística aplicada al transporte, desde su conceptualización hasta el uso de herramientas de monitoreo que optimizan la cadena de suministro. Aborda el estudio del transporte, sus tipos, características, normativa y objetivos organizacionales, para luego profundizar en los indicadores de gestión como base para medir y mejorar el desempeño.
+        p El componente formativo Planeación y evaluación de procesos operativos en transporte permite comprender la gestión logística aplicada al transporte, desde su conceptualización hasta el uso de herramientas de monitoreo que optimizan la cadena de suministro. Aborda el estudio del transporte, sus tipos, características, normativa y objetivos organizacionales, para luego profundizar en los indicadores de gestión como base para medir y mejorar el desempeño.
         p.mb-4.mb-lg-5 También desarrolla los procesos de monitoreo, sus elementos, características y pasos, junto con las herramientas disponibles y su aporte a la trazabilidad, integración y análisis de datos. En conjunto, estas temáticas brindan una visión integral para la toma de decisiones, la eficiencia operativa y la competitividad del sector.
       .col-sm-9.col-lg-5
         figure

@@ -13,7 +13,7 @@
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/intro/1.png" alt="Icono decorativa" data-aos="fade-up")
       .col-lg-8
-        p El componente formativo “Planeación y evaluación de procesos operativos en transporte” ofrece al aprendiz herramientas técnicas y prácticas para abordar la gestión de operaciones en el sector, desde la comprensión de los conceptos y tipos de transporte, hasta la aplicación de metodologías de planificación y control. A partir del conocimiento de la normativa vigente y los indicadores de gestión, se fortalecen las competencias para diseñar y evaluar procesos que optimicen recursos y garanticen el cumplimiento de objetivos organizacionales.
+        p El componente formativo Planeación y evaluación de procesos operativos en transporte ofrece al aprendiz herramientas técnicas y prácticas para abordar la gestión de operaciones en el sector, desde la comprensión de los conceptos y tipos de transporte, hasta la aplicación de metodologías de planificación y control. A partir del conocimiento de la normativa vigente y los indicadores de gestión, se fortalecen las competencias para diseñar y evaluar procesos que optimicen recursos y garanticen el cumplimiento de objetivos organizacionales.
         .p-4.bg-transporte.rounded-4
           .row.justify-content-center.align-items-center
             .col-xl-10.mb-4.mb-xl-0

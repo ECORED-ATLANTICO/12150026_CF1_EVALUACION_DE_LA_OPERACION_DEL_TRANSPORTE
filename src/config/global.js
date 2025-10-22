@@ -167,7 +167,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/CFA1_12150026_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -254,7 +254,7 @@ export default {
     {
       termino: 'TMS (<em>Transportation Management System</em>)',
       significado:
-        '<em>Software</em> especializado en planificar, optimizar y monitorear las operaciones de transporte, controlando rutas, costos y entregas.',
+        '<em>software</em> especializado en planificar, optimizar y monitorear las operaciones de transporte, controlando rutas, costos y entregas.',
     },
     {
       termino: 'Transporte terrestre',
@@ -264,7 +264,7 @@ export default {
     {
       termino: 'WMS (<em>Warehouse Management System</em>)',
       significado:
-        '<em>Software</em> de gestión de almacenes que controla operaciones como recepción, inventario, preparación de pedidos y despacho, mejorando la eficiencia operativa.',
+        '<em>software</em> de gestión de almacenes que controla operaciones como recepción, inventario, preparación de pedidos y despacho, mejorando la eficiencia operativa.',
     },
   ],
   referencias: [
@@ -276,21 +276,9 @@ export default {
     },
     {
       referencia:
-        'Mora, L. A., & Muñoz, R. D. (2009). <em>Diccionario de logística y negocios internacionales.</em> Ecoe Ediciones.',
-      link:
-        'https://www.buscalibre.com.co/libro-diccionario-de-logistica-y-negocios-internacionales/9789586156557/p/47020569',
-    },
-    {
-      referencia:
         'Pérez Bello, O. A. (2016). <em>Optimización de procesos para la planeación y ejecución del mantenimiento en equipos especializados para el transporte y el izaje de cargas a nivel nacional</em> [Trabajo de grado, Universidad Militar Nueva Granada]. Repositorio Institucional UMNG.',
       link:
         'https://repository.umng.edu.co/bitstreams/15e35c7a-8b21-4182-aca8-1a2abc11cff8/download',
-    },
-    {
-      referencia:
-        'Silvera Escudero, R. E. (2019). <em>Logística matemática: La clave del éxito en la cadena de suministro.</em> Ecoe Ediciones Ltda.',
-      link:
-        'https://www.buscalibre.com.co/libro-logistica-matematica-la-,-del-exito-en-la-cadena-de-suministro-1ra-edicion/9789587719602/p/49964175',
     },
     {
       referencia:
@@ -308,6 +296,18 @@ export default {
         'Colombia. Ministerio de Transporte. (2002). <em>Decreto 1609 de 2002: Por el cual se reglamenta el manejo y transporte terrestre automotor de mercancías peligrosas por carretera.</em>',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6101',
+    },
+    {
+      referencia:
+        'Banco Interamericano de Desarrollo. (2015). <em>Guía logística: aspectos conceptuales y prácticos de la logística de cargas.</em>',
+      link:
+        'https://publications.iadb.org/publications/spanish/document/Gu%C3%ADa-log%C3%ADstica-aspectos-conceptuales-y-pr%C3%A1cticos-de-la-log%C3%ADstica-de-cargas-%282015%29.pdf',
+    },
+    {
+      referencia:
+        'Cardona Arbeláez, D., Rodríguez Arias, C. A., Del Río Cortina, J. L., Balza Franco, V., Ibarra Vega, D. W., del Río Cortina, A., García Bravo, P., … Caro Soto, M. S. (2019). <em>Logística y cadena de suministro: aproximaciones teórico-prácticas</em>. Editorial CECAR.',
+      link:
+        'https://cecar.edu.co/documentos/editorial/e-book/logistica-y-cadena-de-suministro-digital.pdf',
     },
   ],
   creditos: [
@@ -331,13 +331,13 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Yezid Arturo Choperena Guerrero',
-          cargo: 'Experto temático',
+          nombre: 'Yasmín Andreina Maldonado Escobar',
+          cargo: 'Experta temática',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Jair Coll Gallardo',
-          cargo: 'Evaluador instruccional',
+          nombre: 'Heydy Cristina González García',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
@@ -346,7 +346,7 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Antonio Vecino Valero',
+          nombre: 'Andrés Felipe Herrera',
           cargo: 'Diseñador <i>web</i>',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
