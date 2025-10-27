@@ -169,7 +169,7 @@
     p.mb-4 Los objetivos de la organización del transporte son los resultados deseados que una empresa o entidad busca lograr a través de sus operaciones logísticas y de movilidad. Estos objetivos son fundamentales para guiar las decisiones estratégicas y operativas, garantizando eficiencia y sostenibilidad.  No se limitan solo a mover bienes o personas, sino que abarcan una visión más amplia de valor y desempeño:
 
     .fullwidth-bg.fullwidth-bg--1
-      .row.justify-content-center.align-items-center.factores-slider.z-2
+      .row.justify-content-center.align-items-center.factores-slider.z-2.mb-5
         .d-none.d-xl-block.col-xl-4
           figure
             img(src='@/assets/curso/temas/tema1/14.png', alt='Imagen de un mecánico')(data-aos="fade-up")
