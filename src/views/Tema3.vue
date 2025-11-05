@@ -163,7 +163,7 @@
             .col-sm-10.col-lg-7.col-xl-6
               h5.mb-4 Seguridad y control
               p.mb-3 <strong>Mayor seguridad</strong>: localización rápida ante robos o emergencias; promueve conducción segura mediante monitoreo del comportamiento del conductor.
-              p <strong>Transparencia</strong>: prueba electrónica de entrega (POD) con fotos y firmas, aumentando confianza y veracidad de la entrega.
+              p <strong>Transparencia</strong>: prueba electrónica de entrega (POD) con fotos y firmas, aumentando la confianza y veracidad de la entrega.
             .col-sm-8.col-lg-5.col-xl-4
               figure
                 img(src='@/assets/curso/temas/tema3/15.png', alt='Imagen ilustrativa')

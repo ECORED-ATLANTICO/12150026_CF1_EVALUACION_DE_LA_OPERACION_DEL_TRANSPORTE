@@ -24,7 +24,7 @@
     
     figure.mb-5
       .video.mb-2
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/zD6prKIIWxg" title="Planeacion y evaluación de procesos operativos en transporte" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/LqfY3GjfDoM" title="Planeacion y evaluación de procesos operativos en transporte" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
       figcaption Video: Planeacion y evaluación de procesos operativos en transporte
 
 </template>

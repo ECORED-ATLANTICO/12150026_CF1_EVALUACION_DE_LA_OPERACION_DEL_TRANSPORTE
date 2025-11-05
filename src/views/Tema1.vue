@@ -43,7 +43,7 @@
         SlyderA(tipo="b")
           .row.align-items-center.justify-content-center
             .col-sm-10.col-lg-7.col-xl-6
-              h5.mb-4 Transporte terrestre.
+              h5.mb-4 Transporte terrestre
               p.mb-4.mb-lg-0 Traslada personas y mercancías por carreteras o vías férreas, siendo el más utilizado a nivel nacional e intracontinental. El carretero es ideal para entregas puerta a puerta, última milla y cargas perecederas, con alta flexibilidad de rutas y seguimiento en tiempo real. El ferroviario resulta eficiente para cargas masivas como minerales, cereales y químicos, con bajo consumo energético y gran capacidad en trayectos largos.
             .col-sm-8.col-lg-5.col-xl-4
               figure
@@ -51,7 +51,7 @@
 
           .row.align-items-center.justify-content-center
             .col-sm-10.col-lg-7.col-xl-6
-              h5.mb-4 Transporte marítimo.
+              h5.mb-4 Transporte marítimo
               p.mb-4.mb-lg-0 Moviliza mercancías en buques a través de vías acuáticas y es fundamental en el comercio internacional. Se emplea en exportaciones e importaciones de granel, maquinaria, automóviles y contenedores. Se distingue por sus bajos costos unitarios, su eficiencia energética y el soporte que ofrece a las economías de escala.
             .col-sm-8.col-lg-5.col-xl-4
               figure
@@ -59,7 +59,7 @@
 
           .row.align-items-center.justify-content-center
             .col-sm-10.col-lg-7.col-xl-6
-              h5.mb-4 Transporte aéreo.
+              h5.mb-4 Transporte aéreo
               p.mb-4.mb-lg-0 Permite el traslado ágil de personas y mercancías en aeronaves. Es apropiado para productos de alto valor, electrónicos, farmacéuticos, perecederos y atenciones médicas urgentes. Se caracteriza por la reducción significativa de los tiempos de entrega, la mínima manipulación de la carga y la alta trazabilidad.
             .col-sm-8.col-lg-5.col-xl-4
               figure
@@ -67,7 +67,7 @@
 
           .row.align-items-center.justify-content-center
             .col-sm-10.col-lg-7.col-xl-6
-              h5.mb-4 Transporte multimodal e intermodal.
+              h5.mb-4 Transporte multimodal e intermodal
               p.mb-4.mb-lg-0 Integra de manera secuencial dos o más modos de transporte bajo un esquema logístico. En el multimodal, un solo operador gestiona toda la cadena con un único documento, mientras que el intermodal coordina a varios operadores mediante infraestructura estandarizada como contenedores ISO. Este modelo combina rapidez, eficiencia y cobertura geográfica, optimizando recursos y reduciendo emisiones.
             .col-sm-8.col-lg-5.col-xl-4
               figure

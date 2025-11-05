@@ -283,8 +283,7 @@ export default {
     {
       referencia:
         'Colombia. Congreso de la República. (1996). <em>Ley 336 de 1996: Por la cual se adopta el Estatuto Nacional de Transporte.</em>',
-      link:
-        'https://www.supertransporte.gov.co/documentos/2020/Diciembre/Notificaciones_16_RA/Resoluciones/860.pdf',
+      link: '',
     },
     {
       referencia:
