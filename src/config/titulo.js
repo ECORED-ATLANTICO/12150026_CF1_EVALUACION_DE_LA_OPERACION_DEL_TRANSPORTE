@@ -1,1 +1,1 @@
-module.exports = 'Evaluación de la operación del transporte'
+module.exports = 'Planeación y evaluación de procesos operativos en transporte'
